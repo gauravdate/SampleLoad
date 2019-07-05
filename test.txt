@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is E8FA-7008
+
+ Directory of E:\SA\Department\Performance\CRMProjects
+
+04/07/2019  06:50 PM    <DIR>          .
+04/07/2019  06:50 PM    <DIR>          ..
+04/07/2019  06:50 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  156,977,770,496 bytes free
